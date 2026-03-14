@@ -1,0 +1,5 @@
+# passwd files
+# obj files
+# temp files
+.vscode/
+.env
